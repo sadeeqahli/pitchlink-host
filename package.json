@@ -4,12 +4,12 @@
   "description": "Pitchlink Host - Expo React Native Project",
   "main": "index.js",
   "scripts": {
-    "start": "cd Pitchlink-Host && npm start",
-    "android": "cd Pitchlink-Host && npm run android",
-    "ios": "cd Pitchlink-Host && npm run ios",
-    "web": "cd Pitchlink-Host && npm run web",
-    "lint": "cd Pitchlink-Host && npm run lint",
-    "test": "cd Pitchlink-Host && npm run test"
+    "start": "cd expo-project && npm start",
+    "android": "cd expo-project && npm run android",
+    "ios": "cd expo-project && npm run ios",
+    "web": "cd expo-project && npm run web",
+    "lint": "cd expo-project && npm run lint",
+    "test": "cd expo-project && npm run test"
   },
   "repository": {
     "type": "git",
