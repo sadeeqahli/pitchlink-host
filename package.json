@@ -1,0 +1,25 @@
+{
+  "name": "pitchlink-host-root",
+  "version": "1.0.0",
+  "description": "Pitchlink Host - Expo React Native Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd Pitchlink-Host && npm start",
+    "android": "cd Pitchlink-Host && npm run android",
+    "ios": "cd Pitchlink-Host && npm run ios",
+    "web": "cd Pitchlink-Host && npm run web",
+    "lint": "cd Pitchlink-Host && npm run lint",
+    "test": "cd Pitchlink-Host && npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadeeqahli/pitchlink-host.git"
+  },
+  "keywords": ["expo", "react-native", "pitchlink"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadeeqahli/pitchlink-host/issues"
+  },
+  "homepage": "https://github.com/sadeeqahli/pitchlink-host#readme"
+}
